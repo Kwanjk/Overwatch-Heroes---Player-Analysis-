@@ -3,6 +3,8 @@
 GitHub repository for the Medium publication:  
 **"We Are Who We Lock: A Similarity Study of Overwatch Heroes & Player Psychology"**
 
+https://medium.com/@kwanjosh25
+
 This project models Overwatch heroes using psychological features — such as mobility, self-sustain, mechanical skill, and durability — and uses cosine similarity to identify clusters of player mindset (Mastery, Healing, Protection, Instinct).
 
 ---

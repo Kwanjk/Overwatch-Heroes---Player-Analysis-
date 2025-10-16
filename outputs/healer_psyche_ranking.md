@@ -1,10 +1,11 @@
 | Hero | Similarity Score |
 |------|------------------|
-| **Kiriko** | 0.648 |
-| **Ana** | 0.647 |
-| **Mercy** | 0.466 |
-| **Zarya** | 0.040 |
-| **Hanzo** | -0.127 |
-| **Genji** | -0.151 |
-| **Tracer** | -0.177 |
-| **Reinhardt** | -0.233 |
+| Ana | 0.600 |
+| Kiriko | 0.592 |
+| Mercy | 0.560 |
+| Hanzo | -0.027 |
+| Tracer | -0.049 |
+| Ramattra | -0.082 |
+| Zarya | -0.114 |
+| Genji | -0.115 |
+| Reinhardt | -0.224 |
